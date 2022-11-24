@@ -30,6 +30,7 @@ Problems to solve
 
 ---------------------------------------------------------------
 ## Session 3 - 23.11.2022 
+Problems to solve
 
 1) Perform Matrix Multiplication in C.
 2) Given a matrix print the transpose of the matrix.
@@ -37,3 +38,10 @@ Problems to solve
 4) Delete an element in an array.
 
 ---------------------------------------------------------------
+## Session 4 - 24.11.2022 
+Problems to solve
+
+1) Write a menu driven C program to do all the operations in an array along with selection and insertion sort.
+
+---------------------------------------------------------------
+
