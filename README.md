@@ -44,4 +44,27 @@ Problems to solve
 1) Write a menu driven C program to do all the operations in an array along with selection and insertion sort.
 
 ---------------------------------------------------------------
+## Session 5 -25.11.2022
+Problems to solve
 
+1) Find the length of given string without using in built function.
+2) implement string concatenate of 2 strings without using in built function.
+3) implement string reversal without using in built function.
+4) check whether the given string is a palindrome or not without using built in function.
+
+Additional questions
+1) implement string comparision without using built-in function.
+2) case conversion without using in built function.
+3)implement string reversal but by reducing the no. of iteration by half(to increase the efficiency of your code).
+
+---------------------------------------------------------------
+## Session 5 -26.11.2022
+Problems to solve
+
+1) Write a C function to implement calculator and ask user for the operation.
+2) Write a function for selection sort. (Array must be a paramter to the function. Array should be an user input in main.)
+
+Try this.
+Rewrite the array operations code implemented before (session 3) using functions. Note: The size of the array has to be a parameter to the function which has to be altered after every operation.
+
+---------------------------------------------------------------
