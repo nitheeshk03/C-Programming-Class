@@ -48,14 +48,14 @@ Problems to solve
 Problems to solve
 
 1) Find the length of given string without using in built function.
-2) implement string concatenate of 2 strings without using in built function.
-3) implement string reversal without using in built function.
-4) check whether the given string is a palindrome or not without using built in function.
+2) Implement string concatenate of 2 strings without using in built function.
+3) Implement string reversal without using in built function.
+4) Check whether the given string is a palindrome or not without using built in function.
 
 Additional questions
-1) implement string comparision without using built-in function.
-2) case conversion without using in built function.
-3)implement string reversal but by reducing the no. of iteration by half(to increase the efficiency of your code).
+1) Implement string comparision without using built-in function.
+2) Case conversion without using in built function.
+3) Implement string reversal but by reducing the no. of iteration by half(to increase the efficiency of your code).
 
 ---------------------------------------------------------------
 ## Session 5 - 26.11.2022
