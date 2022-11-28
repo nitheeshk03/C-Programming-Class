@@ -58,7 +58,7 @@ Additional questions
 3) Implement string reversal but by reducing the no. of iteration by half(to increase the efficiency of your code).
 
 ---------------------------------------------------------------
-## Session 5 - 26.11.2022
+## Session 6 - 26.11.2022
 Problems to solve
 
 1) Write a C function to implement calculator and ask user for the operation.
@@ -69,3 +69,14 @@ Try this
 Rewrite the array operations code implemented before (session 3) using functions. Note: The size of the array has to be a parameter to the function which has to be altered after every operation.
 
 ---------------------------------------------------------------
+## Session 7 - 28.11.2022
+Problems to solve
+
+1) Write a recursive C function to find the sum of digits of a number.
+
+Write a recursive C function to implement binary search on a array.
+
+Write a recursive C program to find a binary representation of a given decimal number.
+
+4.	Write a recursive C program to find the LCM and GCD of two numbers.
+
