@@ -73,10 +73,9 @@ Rewrite the array operations code implemented before (session 3) using functions
 Problems to solve
 
 1) Write a recursive C function to find the sum of digits of a number.
+2) Implement binary search using simple loops in C.
+3) Write a recursive C function to implement binary search on a array.
+4) Write a recursive C program to find a binary representation of a given decimal number.
+5) Write a recursive C program to find the LCM and GCD of two numbers.
 
-Write a recursive C function to implement binary search on a array.
-
-Write a recursive C program to find a binary representation of a given decimal number.
-
-4.	Write a recursive C program to find the LCM and GCD of two numbers.
-
+---------------------------------------------------------------
