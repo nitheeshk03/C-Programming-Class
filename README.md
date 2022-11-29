@@ -87,6 +87,6 @@ Problems to solve
 3) Write a program in C to Calculate the length of the string using a pointer.
 
 Additional Problem
-4) Implement singly linked list using pointers in C as 3 different files ( namely adt.h, impl.h, appl.c ).
+1) Implement singly linked list using pointers in C as 3 different files ( namely adt.h, impl.h, appl.c ).
 
 ---------------------------------------------------------------
