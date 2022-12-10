@@ -3,11 +3,13 @@
 This repository contains the material used in the `Short-term Hands-on Supplementary Course in C Programming` for building C programming skills amongst the B.E. Computer Science & Engineering undergraduates in the [Computer Science & Engineering Department](https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/) at [Sri Sivasubramaniya Nadar College of Engineering](https://www.ssn.edu.in/) through a practicum-driven lesson plan during Nov-Dec 2022.
 
 # Team
-|Nitheesh Kumar N| Dr. S.V. Jansi Rani | Dr. T.T. Mirnalinee |
-| :-------------: | :-------------: | :-------------: |
-|[<img src="./assets/NK-Profile.jpg" width="130"/>](./assests?NK-Profile.jpg) | [![Github](./assets/SVJ-Profile.png)](https://www.ssn.edu.in/staff-members/dr-s-v-jansi-rani/)|[<img src="./assets/TTM-Profile.png" width="130"/>](https://www.ssn.edu.in/staff-members/dr-t-t-mirnalinee/)|
-||<a href="https://www.ssn.edu.in/staff-members/dr-s-v-jansi-rani/"><img src="https://img.shields.io/badge/-Dr%20%20S.V. Jansi Rani-323EA8?style=flat&logo=#&logoColor=white"/></a>|<a href="https://www.ssn.edu.in/staff-members/dr-t-t-mirnalinee//"><img src="https://img.shields.io/badge/-Dr%20T%20T%20Mirnalinee-323EA8?style=flat&logo=#&logoColor=white"/></a>|
-| Associate Professor|Professor & Head of the Department|
+|Nandakishor V|Nitheesh Kumar N| Dr. S.V. Jansi Rani | Dr. T.T. Mirnalinee |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+|[<img src="./assets/NK-Profile.jpg" width="130"/>](./assests?NK-Profile.jpg)|[<img src="./assets/NK-Profile.jpg" width="130"/>](./assests?NK-Profile.jpg) | [![Github](./assets/SVJ-Profile.png)](https://www.ssn.edu.in/staff-members/dr-s-v-jansi-rani/)|[<img src="./assets/TTM-Profile.png" width="130"/>](https://www.ssn.edu.in/staff-members/dr-t-t-mirnalinee/)|
+|<a href="https://www.linkedin.com/in/nandakishorv/"><img src="https://img.shields.io/badge/-Nandakishor%20V-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/NandakishorV/"><img src="https://img.shields.io/badge/-NandakishorV-B10036?style=flat&logo=GitHub&logoColor=white"/></a>|<a href="https://www.linkedin.com/in/nitheesh-kumar-n-0b7101221//"><img src="https://img.shields.io/badge/-Nitheesh%20Kumar%20N-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/nitheeshk03"><img src="https://img.shields.io/badge/-nitheeshk03-B10036?style=flat&logo=GitHub&logoColor=white"/></a>|<a href="https://www.ssn.edu.in/staff-members/dr-s-v-jansi-rani/"><img src="https://img.shields.io/badge/-Dr%20%20S.V. Jansi Rani-323EA8?style=flat&logo=#&logoColor=white"/></a>|<a href="https://www.ssn.edu.in/staff-members/dr-t-t-mirnalinee//"><img src="https://img.shields.io/badge/-Dr%20T%20T%20Mirnalinee-323EA8?style=flat&logo=#&logoColor=white"/></a>|
+|B.E. CSE 2020-2024|B.E. CSE 2020-2024| Associate Professor|Professor & Head of the Department|
+
+# Homework
 ---------------------------------------------------------------
 ## Session 1 - 21.11.2022         
 Problems to solve
