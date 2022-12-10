@@ -89,3 +89,29 @@ Additional Problem
 1) Implement singly linked list using pointers in C as 3 different files ( namely adt.h, impl.h, appl.c ).
 
 ---------------------------------------------------------------
+## Session 10 - 06.12.2022
+Problems to solve
+
+1) Create a datatype ‘fraction’ with numerator and denominator. Perform fraction addition, subtraction, multiplication and division.
+Note: Find LCM for addition and subtraction problem. Make it a menu drive program.  
+2) Create a datatype ‘Student’ with name, roll number, marks for 5 subjects as an array. Maintain an array of student type and sort them based on their total marks in descending order.
+
+---------------------------------------------------------------
+## Session 11 - 07.12.2022
+Problems to solve
+
+1) Try file operations in different modes.
+2) Examination Problems to be revisited and tried.
+
+---------------------------------------------------------------
+## Session 12 - 08.12.2022
+Problems to solve
+
+1) Implement singly linked list in C using structures and pointers with the following functionalities
+      a.	Insert front
+      b.	Insert end
+      c.	Insert in middle
+      d.	Delete a node
+      e.	Display the list
+      
+---------------------------------------------------------------
