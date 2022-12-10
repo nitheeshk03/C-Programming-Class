@@ -2,6 +2,12 @@
 
 This repository contains the material used in the `Short-term Hands-on Supplementary Course in C Programming` for building C programming skills amongst the B.E. Computer Science & Engineering undergraduates in the [Computer Science & Engineering Department](https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/) at [Sri Sivasubramaniya Nadar College of Engineering](https://www.ssn.edu.in/) through a practicum-driven lesson plan during Nov-Dec 2022.
 
+# Team
+|Nitheesh Kumar N| Dr. S.V. Jansi Rani | Dr. T.T. Mirnalinee |
+| :-------------: | :-------------: | :-------------: |
+|[<img src="./assets/NK-Profile.jpg" width="130"/>](./assests?NK-Profile.jpg) | [![Github](./assets/SVJ-Profile.png)](https://www.ssn.edu.in/staff-members/dr-s-v-jansi-rani/)|[<img src="./assets/TTM-Profile.png" width="130"/>](https://www.ssn.edu.in/staff-members/dr-t-t-mirnalinee/)|
+||<a href="https://www.ssn.edu.in/staff-members/dr-s-v-jansi-rani/"><img src="https://img.shields.io/badge/-Dr%20%20S.V. Jansi Rani-323EA8?style=flat&logo=#&logoColor=white"/></a>|<a href="https://www.ssn.edu.in/staff-members/dr-t-t-mirnalinee//"><img src="https://img.shields.io/badge/-Dr%20T%20T%20Mirnalinee-323EA8?style=flat&logo=#&logoColor=white"/></a>|
+| Associate Professor|Professor & Head of the Department|
 ---------------------------------------------------------------
 ## Session 1 - 21.11.2022         
 Problems to solve
